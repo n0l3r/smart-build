@@ -13,13 +13,13 @@ npm install
 cp .env.example .env
 ```
 <!-- config .env -->
-change `DB_NAME` to your database name
-change `DB_USER` to your database user
-change `DB_PASS` to your database password
-change `DB_HOST` to your database host
-change `DB_PORT` to your database port
-change `JWT_SECRET_KEY` to your jwt secret key
-change `JWT_REFRESH_TOKEN` to your jwt refresh token
+change `DB_NAME` to your database name<br>
+change `DB_USER` to your database username <br>
+change `DB_PASS` to your database password <br>
+change `DB_HOST` to your database host <br>
+change `DB_PORT` to your database port  <br>
+change `JWT_SECRET_KEY` to your jwt secret key <br>
+change `JWT_REFRESH_TOKEN` to your jwt refresh token <br>
 
 ## Run Migration
 ```bash
